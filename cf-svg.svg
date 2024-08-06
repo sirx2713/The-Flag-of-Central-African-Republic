@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 2" width="50" height="50">
+	<title>cf-svg</title>
+	<style>
+		.s0 { fill: #ffce00 } 
+	</style>
+	<path id="Layer" class="s0" d="m6 4l6 2v2h-12v-2zm-4-3.8l0.5 1.6-1.4-1h1.8l-1.4 1z"/>
+</svg>

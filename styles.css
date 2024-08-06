@@ -1,0 +1,38 @@
+h1{
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+#main-container{
+    position: relative;
+}
+#main-container > #blue-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100px;
+    width: 1200px;
+    background-color: #003082;
+}
+#main-container > #white-box{
+    height: 100px;
+    width: 1200px;
+    background-color: white;
+}
+#main-container > #green-box{
+    height: 100px;
+    width: 1200px;
+    background-color: #289728;
+}
+#main-container > #yellow-box{
+    height: 100px;
+    width: 1200px;
+    background-color: #FFCE00;
+}
+#main-container > #red-box{
+    position: absolute;
+    height: 400px;
+    width: 100px;
+    background-color: #D21034;
+    top: -0.4px;
+    left: 550px;
+}
